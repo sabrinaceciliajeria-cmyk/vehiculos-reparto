@@ -21,7 +21,7 @@ Construir un sistema funcional que permita registrar, consultar y gestionar dist
 
 ## 🏗️ Estructura del proyecto
 
-
+```
 vehiculos-reparto/
 │
 ├── src/
@@ -33,7 +33,7 @@ vehiculos-reparto/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
